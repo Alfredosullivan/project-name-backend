@@ -257,4 +257,4 @@ Authorization: Bearer <token>
 | `JWT_SECRET` | Clave secreta para firmar JWT | ✅ |
 
 > ⚠️ **Nunca** guardes el archivo `.env` en el repositorio.
-## API en desarrollo local: http://localhost:3001
+## 🌐 API pública: https://newsexplorer-alf.mooo.com
